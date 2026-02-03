@@ -691,7 +691,7 @@ https://livetv-app.mylifeisgood.net.ru/channels/radiomaximus.m3u8
 https://livetv-app.mylifeisgood.net.ru/channels/comedyradio.m3u8
 #EXTINF:-1 group-title="Радио",Ретро ФМ
 https://livetv-app.mylifeisgood.net.ru/channels/retrofm.m3u8
-#EXTINF:-1 group-title"Радио",Радио Звезда
+#EXTINF:-1 group-title="Радио",Радио Звезда
 https://livetv-app.mylifeisgood.net.ru/channels/radiozvezda.m3u8
 #EXTINF:-1 group-title="Радио",Радио Romantica
 https://livetv-app.mylifeisgood.net.ru/channels/radioromantica.m3u8
