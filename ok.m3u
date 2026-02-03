@@ -1,0 +1,701 @@
+#EXTM3U
+#EXTINF:-1 group-title="Инфоканал",Инфоканал RB Play
+https://www.dropbox.com/scl/fi/55npafe13atk6104ihjce/RB-PLAY.mp4?rlkey=yg19zddene0b47gg6ykqzhwjd&st=7g3knlwt&dl=1
+#EXTINF:-1 group-title="Кино" ,Vip Premiere HD
+https://ucdn.beetv.kz/bpk-tv/000000868/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" ,Vip Megahit HD
+https://ucdn.beetv.kz/bpk-tv/000000869/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" ,Vip Comedy HD
+https://ucdn.beetv.kz/bpk-tv/000000870/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" ,Vip Serial HD
+https://ucdn.beetv.kz/bpk-tv/000004375/tve/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/267.png" group-title="Кино",TV 1000 Русское кино HD
+https://ucdn.beetv.kz/bpk-tv/000003748/tve/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/127.png" group-title="Кино",TV 1000 HD
+https://ucdn.beetv.kz/bpk-tv/000003747/tve/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/125.png" group-title="Кино",TV 1000 Action HD
+https://ucdn.beetv.kz/bpk-tv/000003910/tve/index.m3u8
+#EXTINF:-1 group-title="Кино",Yosso TV New Кино
+http://6a0296cf.edemist.com/iptv/F65BX3TKGTCBZQ/14177/index.m3u
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KYtnPSjY/image.png" group-title="Кино", Scripach TV
+https://kino-stream.online/hls/scripach.m3u8
+#EXTINF:-1 group-title="Кино",Киноужас
+http://158.101.222.193:88/georgia_play.php?id=kinoujas
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/542.png" group-title="Кино",Кинохит HD
+http://158.101.222.193:88/georgia_play.php?id=kinohit
+#EXTINF:-1 group-title="Кино",Мужское кино
+http://158.101.222.193:88/georgia_play.php?id=interesnoetv
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/644.png" group-title="Кино",Киномикс
+http://158.101.222.193:88/georgia_play.php?id=kinomiks
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/821.png" group-title="Кино",Кинокомедия HD
+http://158.101.222.193:88/georgia_play.php?id=kinokomediya
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/462.png" group-title="Кино",Киносвидание
+http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/987.png" group-title="Кино",Киносемья
+http://158.101.222.193:88/georgia_play.php?id=kinosemya
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/799.png" group-title="Кино",Киносерия
+http://158.101.222.193:88/georgia_play.php?id=kinoseria
+#EXTINF:-1 group-title="Кино",Наше новое кино
+http://158.101.222.193:88/georgia_play.php?id=nashanovoekino
+#EXTINF:-1 group-title="Кино",Кинопоказ HD
+http://hls127.freeott.top:8080/Kinopokaz_HD/mono.m3u8
+#EXTINF:-1 group-title="Кино",Clarity4K Ужасы
+http://hls127.freeott.top:8080/Clarity4K_Uzhasi/mono.m3u8
+#EXTINF:-1 group-title="Кино",Clarity4K Фантастика
+http://hls127.freeott.top:8080/Clarity4K_Fantastic/mono.m3u8
+#EXTINF:-1 group-title="Кино",Clarity4K Netflix
+http://hls127.freeott.top:8080/Clarity4K_Netflix/mono.m3u8
+#EXTINF:-1 group-title="Кино" ,Феникс+Кино
+https://ucdn.beetv.kz/bpk-tv/000000125/tve/index.m3u8
+#EXTINF:-1 group-title="Кино",Наш Киномир
+http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
+#EXTINF:-1 group-title="Кино",Наше HD
+http://hls127.freeott.top:8080/Nashe_HD/mono.m3u8
+#EXTINF:-1 group-title="Кино",Хит HD
+http://hls127.freeott.top:8080/XitHD/video.m3u8
+#EXTINF:-1 group-title="Кино",CPS Action HD
+http://hls127.freeott.top:8080/CPS_Action/video.m3u8
+#EXTINF:-1 group-title="Кино",CPS Detective HD
+http://hls127.freeott.top:8080/CPS_Investigation/video.m3u8
+#EXTINF:-1 group-title="Кино",CPS Drama HD
+http://hls127.freeott.top:8080/CPS_Drama/video.m3u8
+#EXTINF:-1 group-title="Кино",CPS Fiction HD
+http://hls127.freeott.top:8080/CPS_Fiction/video.m3u8
+#EXTINF:-1 group-title="Кино",CPS Fresh HD
+http://hls127.freeott.top:8080/CPS_Fresh/video.m3u8
+#EXTINF:-1 group-title="Кино" ,Семейное кино HD
+https://ucdn.beetv.kz/bpk-tv/000008489/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" ,Сапфир HD
+https://ucdn.beetv.kz/bpk-tv/000008135/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" ,Русский Иллюзион
+https://ucdn.beetv.kz/bpk-tv/000004207/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" ,Премиум Кино HD
+https://ucdn.beetv.kz/bpk-tv/000008491/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" ,Победа
+https://ucdn.beetv.kz/bpk-tv/000004534/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" ,НСТ
+https://ucdn.beetv.kz/bpk-tv/000000078/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" ,Мосфильм. Золотая коллекция
+https://ucdn.beetv.kz/bpk-tv/000006365/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" ,Мировое Кино HD
+https://ucdn.beetv.kz/bpk-tv/000008488/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" ,Мир Сериала
+https://ucdn.beetv.kz/bpk-tv/000000319/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" ,Любимое Кино
+https://ucdn.beetv.kz/bpk-tv/000000283/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" ,Киноман
+https://ucdn.beetv.kz/bpk-tv/000003871/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" ,Кинобоевик HD
+https://ucdn.beetv.kz/bpk-tv/000008490/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" ,Кинеко HD
+https://ucdn.beetv.kz/bpk-tv/000008136/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" ,Еврокино
+https://ucdn.beetv.kz/bpk-tv/000000152/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" ,Дорама HD
+https://ucdn.beetv.kz/bpk-tv/000003392/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" ,Дом кино Premium HD
+https://ucdn.beetv.kz/bpk-tv/000002943/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" ,Дом кино
+https://ucdn.beetv.kz/bpk-tv/000000050/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" ,Plan B
+https://ucdn.beetv.kz/bpk-tv/000007625/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" ,FOX Life HD
+https://ucdn.beetv.kz/bpk-tv/000004471/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" ,FOX HD
+https://ucdn.beetv.kz/bpk-tv/000004472/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" ,FlixSnip HD
+https://ucdn.beetv.kz/bpk-tv/000004466/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" ,CINEMA
+https://ucdn.beetv.kz/bpk-tv/000000239/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" ,Bollywood HD
+https://ucdn.beetv.kz/bpk-tv/000001419/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" ,Amedia Premium HD
+https://ucdn.beetv.kz/bpk-tv/000000709/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" ,Amedia HiT HD
+https://ucdn.beetv.kz/bpk-tv/000001662/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" ,.Black
+https://ucdn.beetv.kz/bpk-tv/000000520/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" ,.Sci-Fi
+https://ucdn.beetv.kz/bpk-tv/000000134/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" ,.Red
+https://ucdn.beetv.kz/bpk-tv/000000213/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" ,Amedia 1 HD
+https://ucdn.beetv.kz/bpk-tv/000000710/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" ,Amedia 2
+https://ucdn.beetv.kz/bpk-tv/000000351/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" ,Start World HD
+https://ucdn.beetv.kz/bpk-tv/000007818/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" ,Start Air HD
+https://ucdn.beetv.kz/bpk-tv/000007815/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" ,Hollywood
+https://ucdn.beetv.kz/bpk-tv/000000031/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" ,Suspense
+https://ucdn.beetv.kz/bpk-tv/000008739/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" ,Romance
+https://ucdn.beetv.kz/bpk-tv/000008780/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" ,RTVi HD
+https://ucdn.beetv.kz/bpk-tv/000000039/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" ,ТВ21
+https://ucdn.beetv.kz/bpk-tv/000000006/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" ,FilmUADrama
+https://ucdn.beetv.kz/bpk-tv/000003028/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" ,Иллюзион
+https://ucdn.beetv.kz/bpk-tv/000004582/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" ,Вещдок
+https://ucdn.beetv.kz/bpk-tv/000009428/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" ,Семейные Мелодрамы
+https://ucdn.beetv.kz/bpk-tv/000009429/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",Первый канал
+https://ucdn.beetv.kz/bpk-tv/000001227/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",Первый канал
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+#EXTINF:-1 group-title="Общие",Первый канал (+2)
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8
+#EXTINF:-1 group-title="Общие",Первый канал (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
+#EXTINF:-1 group-title="Общие",Первый канал (+7)
+https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8
+#EXTINF:-1 group-title="Общие",Первый канал HD
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 group-title="Общие",Рен ТВ
+https://ucdn.beetv.kz/bpk-tv/000002472/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",РЕН ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:-1 group-title="Общие",РЕН ТВ (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
+#EXTINF:-1 group-title="Общие",Рен ТВ +4
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
+#EXTINF:-1 group-title="Общие",Рен ТВ +7
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
+#EXTINF:-1 group-title="Общие",ТНТ
+https://ucdn.beetv.kz/bpk-tv/000007833/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",ТНТ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:-1 group-title="Общие",ТНТ (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
+#EXTINF:-1 group-title="Общие",ТНТ (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
+#EXTINF:-1 group-title="Общие",ТНТ (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
+#EXTINF:-1 group-title="Общие",ТНТ HD
+https://livetv-app.mylifeisgood.net.ru/channels/tnthd.m3u8
+#EXTINF:-1 group-title="Общие",ТНТ4
+https://ucdn.beetv.kz/bpk-tv/000002926/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",ТНТ4
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+#EXTINF:-1 group-title="Общие",ТНТ4 (+2)
+https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_2/variant.m3u8
+#EXTINF:-1 group-title="Общие",ТНТ4 (+4)
+https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_4/variant.m3u8	
+#EXTINF:-1 group-title="Общие",ТНТ4 (+7)
+https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_7/variant.m3u8
+#EXTINF:-1 group-title="Общие",ТНТ4 HD
+https://livetv-app.mylifeisgood.net.ru/channels/tnt4.m3u8
+#EXTINF:-1 group-title="Общие",Россия К
+https://ucdn.beetv.kz/bpk-tv/000000066/tve/index.m3u8
+#EXTINF:-1 group-title="Новости",Россия 24
+https://ucdn.beetv.kz/bpk-tv/000000198/tve/index.m3u8
+#EXTINF:-1 group-title="Новости",Известия HD
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 group-title="Общие",НТВ МИР
+https://ucdn.beetv.kz/bpk-tv/000000079/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",НТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+#EXTINF:-1 group-title="Общие",НТВ (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
+#EXTINF:-1 group-title="Общие",НТВ (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
+#EXTINF:-1 group-title="Общие",НТВ (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
+#EXTINF:-1 group-title="Общие",НТВ HD
+http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
+#EXTINF:-1 group-title="Общие",НТВ Стиль
+https://ucdn.beetv.kz/bpk-tv/000002761/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",НТВ Сериал
+https://ucdn.beetv.kz/bpk-tv/000002760/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",НТВ Право
+https://ucdn.beetv.kz/bpk-tv/000002759/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",РТР-Планета
+https://ucdn.beetv.kz/bpk-tv/000000812/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",Россия 1
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+#EXTINF:-1 group-title="Общие",Россия 1 (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
+#EXTINF:-1 group-title="Общие",Россия 1 (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8
+#EXTINF:-1 group-title="Общие",Россия 1 (+8)
+https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="Общие",Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="Общие",Центральное Телевидение
+https://ucdn.beetv.kz/bpk-tv/000001880/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",ТВЦ
+https://ucdn.beetv.kz/bpk-tv/000000112/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",ТВ Центр
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+#EXTINF:-1 group-title="Общие",ТВ Центр (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
+#EXTINF:-1 group-title="Общие",ТВЦ +4
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
+#EXTINF:-1 group-title="Общие",ТВЦ +7
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
+#EXTINF:-1 group-title="Общие",ТВ 3 International
+https://ucdn.beetv.kz/bpk-tv/000004712/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",ТВ3
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTINF:-1 group-title="Общие",ТВ3 (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
+#EXTINF:-1 group-title="Общие",ТВ3 (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
+#EXTINF:-1 group-title="Общие",ТВ3 (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
+#EXTINF:-1 group-title="Общие",ТВ3 HD
+https://livetv-app.mylifeisgood.net.ru/channels/tv3hd.m3u8
+#EXTINF:-1 group-title="Общие",Домашний International
+https://ucdn.beetv.kz/bpk-tv/000002348/tve/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/domashny-int.png" group-title="Общие",Домашний
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:-1 group-title="Общие",Домашний +2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
+#EXTINF:-1 group-title="Общие",Домашний +4
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
+#EXTINF:-1 group-title="Общие",Домашний +7
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
+#EXTINF:-1 group-title="Общие",Пятница International
+https://ucdn.beetv.kz/bpk-tv/000007816/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",Пятница
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:-1 group-title="Общие",Пятница! (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8
+#EXTINF:-1 group-title="Общие",Пятница! (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
+#EXTINF:-1 group-title="Общие",Пятница! (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
+#EXTINF:-1 group-title="Общие",СТС International
+https://ucdn.beetv.kz/bpk-tv/000000428/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",СТС
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+#EXTINF:-1 group-title="Общие",СТС (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
+#EXTINF:-1 group-title="Общие",СТС (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
+#EXTINF:-1 group-title="Общие",СТС (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
+#EXTINF:-1 group-title="Общие",СТС HD
+http://95.66.188.74/CTC_HD/mono.m3u8
+#EXTINF:-1 group-title="Общие",СТС Love
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+#EXTINF:-1 group-title="Общие",Пятый канал
+https://ucdn.beetv.kz/bpk-tv/000003718/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",Пятый канал
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+#EXTINF:-1 group-title="Общие",Пятый канал (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
+#EXTINF:-1 group-title="Общие",Пятый канал (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
+#EXTINF:-1 group-title="Общие",Пятый канал (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
+#EXTINF:-1 group-title="Общие",Звезда
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
+#EXTINF:-1 group-title="Общие",Звезда (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
+#EXTINF:-1 group-title="Общие",Звезда (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
+#EXTINF:-1 group-title="Общие",Звезда (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
+#EXTINF:-1 group-title="Общие",Звезда HD
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Общие",Звезда Плюс
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Общие",МИР
+https://ucdn.beetv.kz/bpk-tv/000002555/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="Общие",МИР 24
+https://ucdn.beetv.kz/bpk-tv/000002557/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",МИР24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 group-title="Общие",Перец
+https://ucdn.beetv.kz/bpk-tv/000001248/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",Че! (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
+#EXTINF:-1 group-title="Общие",ОТР
+https://livetv-app.mylifeisgood.net.ru/channels/otr24.m3u8
+#EXTINF:-1 group-title="Общие",Ю (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/yu.png" group-title="Общие",Ю (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
+#EXTINF:-1 group-title="Общие",Ключ
+https://ucdn.beetv.kz/bpk-tv/000004585/tve/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RGkJGJzr/image-44.png" group-title="Развлечение",Экспресс
+https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R01_EXPRESS/variant.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/rt-doc.png" group-title="Развлечение",RTД HD
+http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
+#EXTINF:-1 group-title="Развлечение" ,ПОЕХАЛИ!
+https://ucdn.beetv.kz/bpk-tv/000002991/tve/index.m3u8
+#EXTINF:-1 group-title="Развлечение" ,Сарафан
+http://178.212.71.253:8000/play/44/index.m3u8
+#EXTINF:-1 group-title="Наука" ,Планета HD
+https://ucdn.beetv.kz/bpk-tv/000001049/tve/index.m3u8
+#EXTINF:-1 group-title="Развлечение" ,Живая природа HD
+https://ucdn.beetv.kz/bpk-tv/000001187/tve/index.m3u8
+#EXTINF:-1 group-title="Развлечение" ,Extreme Russian
+https://ucdn.beetv.kz/bpk-tv/000000026/tve/index.m3u8
+#EXTINF:-1 group-title="Хобби" ,Рыбалка и охота
+https://ucdn.beetv.kz/bpk-tv/000002510/tve/index.m3u8
+#EXTINF:-1 group-title="Хобби" ,Диалоги о Рыбалке
+https://ucdn.beetv.kz/bpk-tv/000003174/tve/index.m3u8
+#EXTINF:-1 group-title="Хобби" ,Авто Плюс
+http://158.101.222.193:88/georgia_play.php?id=autoplus
+#EXTINF:-1 group-title="Развлечение" ,Домашние животные
+https://ucdn.beetv.kz/bpk-tv/000000146/tve/index.m3u8
+#EXTINF:-1 group-title="Развлечение" ,Глазами Туриста HD
+https://ucdn.beetv.kz/bpk-tv/000001414/tve/index.m3u8
+#EXTINF:-1 group-title="Развлечение" ,National Geographic HD
+https://ucdn.beetv.kz/bpk-tv/000000034/tve/index.m3u8
+#EXTINF:-1 group-title="Развлечение" ,Nat Geo Wild HD
+https://ucdn.beetv.kz/bpk-tv/000004474/tve/index.m3u8
+#EXTINF:-1 group-title="Развлечение" ,Орел и Решка
+https://ucdn.beetv.kz/bpk-tv/000009427/tve/index.m3u8
+#EXTINF:-1 group-title="Наука" ,Visast History HD
+https://ucdn.beetv.kz/bpk-tv/000005528/tve/index.m3u8
+#EXTINF:-1 group-title="Развлечение" ,VIASAT Nature HD
+https://ucdn.beetv.kz/bpk-tv/000006482/tve/index.m3u8
+#EXTINF:-1 group-title="Наука" ,Viasat Explore HD
+https://ucdn.beetv.kz/bpk-tv/000004157/tve/index.m3u8
+#EXTINF:-1 group-title="Наука" ,Тайны галактики HD
+https://ucdn.beetv.kz/bpk-tv/000000332/tve/index.m3u8
+#EXTINF:-1 group-title="Развлечение" ,TLC
+https://ucdn.beetv.kz/bpk-tv/000001498/tve/index.m3u8
+#EXTINF:-1 group-title="Развлечение" ,Comedy Central
+https://ucdn.beetv.kz/bpk-tv/000000452/tve/index.m3u8
+#EXTINF:-1 group-title="Развлечение" ,Т24
+https://ucdn.beetv.kz/bpk-tv/000000008/tve/index.m3u8
+#EXTINF:-1 group-title="Развлечение" ,Terra HD
+https://ucdn.beetv.kz/bpk-tv/000008142/tve/index.m3u8
+#EXTINF:-1 group-title="Хобби" ,Оружие
+https://ucdn.beetv.kz/bpk-tv/000000308/tve/index.m3u8
+#EXTINF:-1 group-title="Наука" ,History HD
+https://ucdn.beetv.kz/bpk-tv/000001000/tve/index.m3u8
+#EXTINF:-1 group-title="Развлечение" ,Discovery Channel  HD
+https://ucdn.beetv.kz/bpk-tv/000001496/tve/index.m3u8
+#EXTINF:-1 group-title="Развлечение" ,Big Planet HD
+https://ucdn.beetv.kz/bpk-tv/000008052/tve/index.m3u8
+#EXTINF:-1 group-title="Развлечение" ,Animal Planet HD
+https://ucdn.beetv.kz/bpk-tv/000000216/tve/index.m3u8
+#EXTINF:-1 group-title="Развлечение" ,Точка отрыва
+https://ucdn.beetv.kz/bpk-tv/000003208/tve/index.m3u8
+#EXTINF:-1 group-title="Развлечение" ,Новый игровой канал
+https://ucdn.beetv.kz/bpk-tv/000008615/tve/index.m3u8
+#EXTINF:-1 group-title="Развлечение" ,Наша Тема
+https://ucdn.beetv.kz/bpk-tv/000003785/tve/index.m3u8
+#EXTINF:-1 group-title="Развлечение" ,Арсенал HD
+http://95.66.188.74/Arsenal_HD/index.m3u8
+#EXTINF:-1 group-title="Хобби" ,Мужской
+https://ucdn.beetv.kz/bpk-tv/000000286/tve/index.m3u8
+#EXTINF:-1 group-title="Развлечение" ,Загородная жизнь HD
+https://ucdn.beetv.kz/bpk-tv/000000289/tve/index.m3u8
+#EXTINF:-1 group-title="Развлечение" ,Загородный Int
+https://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
+#EXTINF:-1 group-title="Развлечение" ,Телекафе
+https://ucdn.beetv.kz/bpk-tv/000000206/tve/index.m3u8
+#EXTINF:-1 group-title="Развлечение" ,МОДА
+https://ucdn.beetv.kz/bpk-tv/000000439/tve/index.m3u8
+#EXTINF:-1 group-title="Новости" ,РБК
+https://ucdn.beetv.kz/bpk-tv/000000091/tve/index.m3u8
+#EXTINF:-1 group-title="Развлечение" ,Народ всё видит
+https://ucdn.beetv.kz/bpk-tv/000008614/tve/index.m3u8
+#EXTINF:-1 group-title="Развлечение" ,Здоровое ТВ
+https://ucdn.beetv.kz/bpk-tv/000000057/tve/index.m3u8
+#EXTINF:-1 group-title="Развлечение" ,Зал суда
+https://ucdn.beetv.kz/bpk-tv/000006638/tve/index.m3u8
+#EXTINF:-1 group-title="Развлечение" ,ЕДА
+https://ucdn.beetv.kz/bpk-tv/000000588/tve/index.m3u8
+#EXTINF:-1 group-title="Развлечение" ,Время
+https://ucdn.beetv.kz/bpk-tv/000000205/tve/index.m3u8
+#EXTINF:-1 group-title="Развлечение" ,Ретро
+https://vod.splay.uz/live_splay/original/Retro/index.m3u8
+#EXTINF:-1 group-title="Развлечение" ,Аппетитный
+https://ucdn.beetv.kz/bpk-tv/000008877/tve/index.m3u8
+#EXTINF:-1 group-title="Развлечение" ,Анекдот ТВ
+https://ucdn.beetv.kz/bpk-tv/000001921/tve/index.m3u8
+#EXTINF:-1 group-title="Развлечение" ,АВТО 24
+https://ucdn.beetv.kz/bpk-tv/000000815/tve/index.m3u8
+#EXTINF:-1 group-title="Развлечение" ,Зоопарк
+https://ucdn.beetv.kz/bpk-tv/000000260/tve/index.m3u8
+#EXTINF:-1 group-title="Развлечение" ,Вопросы и ответы
+https://ucdn.beetv.kz/bpk-tv/000000195/tve/index.m3u8
+#EXTINF:-1 group-title="Развлечение" ,Gagsnetwork
+https://ucdn.beetv.kz/bpk-tv/000006639/tve/index.m3u8
+#EXTINF:-1 group-title="Развлечение" ,БОБЕР
+https://ucdn.beetv.kz/bpk-tv/000001478/tve/index.m3u8
+#EXTINF:-1 group-title="Региональные" ,8 канал
+https://ucdn.beetv.kz/bpk-tv/000001564/tve/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2556.png" group-title="Музыка",Power Dance
+https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",Radio M2O
+https://streamcdnm5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8LG03Jyg/image-2025-07-09-T014326-466.png" group-title="Музыка",RTL 102.5 Disco
+https://streamcdnn2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w8wgHRr/image-2025-08-31-T114414-385.png" group-title="Музыка",Trance Is Star Radio
+https://myradio24.org/tisradio_video.m3u8
+#EXTINF:-1 group-title="Музыка" ,1HD
+https://ucdn.beetv.kz/bpk-tv/000001020/tve/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/muzyka-pervogo.png" group-title="Музыка",Музыка Первого
+https://ucdn.beetv.kz/bpk-tv/000000204/tve/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/tnt-music.png" group-title="Музыка",ТНТ Music
+https://ucdn.beetv.kz/bpk-tv/000000013/tve/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/muztv.png" group-title="Музыка",МузТВ HD test
+https://livetv-app.mylifeisgood.net.ru/channels/muztvhd.m3u8
+#EXTINF:-1 group-title="Музыка" ,МУЗ ТВ (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
+#EXTINF:-1 tvg-name="Страна FM HD" tvg-logo="https://iptvx.one/picons/radio-strana-fm-tv.png" group-title="Музыка",Страна FM HD
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/shanson-tv.png" group-title="Музыка",Шансон ТВ
+https://ucdn.beetv.kz/bpk-tv/000000210/tve/index.m3u8
+#EXTINF:-1 group-title="Музыка" ,Mezzo
+https://ucdn.beetv.kz/bpk-tv/000000030/tve/index.m3u8
+#EXTINF:-1 group-title="Музыка" ,MCM Top
+https://ucdn.beetv.kz/bpk-tv/000000327/tve/index.m3u8
+#EXTINF:-1 group-title="Музыка",Ocko
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_lq.m3u8
+#EXTINF:-1 group-title="Спорт",Конный мир
+http://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" ,Eurosport 2 HD
+https://ucdn.beetv.kz/bpk-tv/000002479/tve/index.m3u8
+#EXTINF:-1 group-title="Спорт" ,Eurosport 1 HD
+https://ucdn.beetv.kz/bpk-tv/000002478/tve/index.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Планета
+http://158.101.222.193:88/georgia_play.php?id=matchplaneta
+#EXTINF:-1 group-title="Спорт" ,Матч ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! HD
+http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+#EXTINF:-1 group-title="Спорт", Старт Баскет
+https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?live=15&ref=https://tvstart.ru/channels/start-basket-test/
+#EXTINF:-1 group-title="Спорт", Astrakhan.RU Sport HD
+http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" ,Удар HD
+https://ucdn.beetv.kz/bpk-tv/000007802/tve/index.m3u8
+#EXTINF:-1 group-title="Спорт" ,Бокс ТВ
+http://158.101.222.193:88/georgia_play.php?id=boxtv
+#EXTINF:-1 group-title="Спорт" ,Trace Urban HD
+https://ucdn.beetv.kz/bpk-tv/000001661/tve/index.m3u8
+#EXTINF:-1 group-title="Спорт" ,Trace Sport Stars HD
+https://ucdn.beetv.kz/bpk-tv/000001122/tve/index.m3u8
+#EXTINF:-1 group-title="Спорт" ,viju+ Sport
+https://ucdn.beetv.kz/bpk-tv/000000135/tve/index.m3u8
+#EXTINF:-1 group-title="Спорт" ,Setanta Sports Plus
+https://ucdn.beetv.kz/bpk-tv/000008786/tve/index.m3u8
+#EXTINF:-1 group-title="Спорт" ,Setanta Sports 1 HD
+https://ucdn.beetv.kz/bpk-tv/000004498/tve/index.m3u8
+#EXTINF:-1 group-title="Спорт" ,Setanta Sports 2 HD
+https://ucdn.beetv.kz/bpk-tv/000004499/tve/index.m3u8
+#EXTINF:-1 group-title="Спорт" ,Setanta Qazaqstan HD
+https://ucdn.beetv.kz/bpk-tv/000002649/tve/index.m3u8
+#EXTINF:-1 group-title="Спорт" ,Sport Plus Live
+https://ucdn.beetv.kz/bpk-tv/000008731/tve/index.m3u8
+#EXTINF:-1 group-title="Детям",JimJam
+http://176.118.197.125/JimJam/index.m3u8
+#EXTINF:-1 group-title="Детям" ,Gulli Girl
+https://ucdn.beetv.kz/bpk-tv/000000284/tve/index.m3u8
+#EXTINF:-1 group-title="Детям" ,Лёва
+https://ucdn.beetv.kz/bpk-tv/000008003/tve/index.m3u8
+#EXTINF:-1 group-title="Детям" ,Мульт
+https://ucdn.beetv.kz/bpk-tv/000001207/tve/index.m3u8
+#EXTINF:-1 group-title="Детям" ,Cartoonito
+https://ucdn.beetv.kz/bpk-tv/000000160/tve/index.m3u8
+#EXTINF:-1 group-title="Детям" ,Da Vinci
+https://ucdn.beetv.kz/bpk-tv/000000333/tve/index.m3u8
+#EXTINF:-1 group-title="Детям" ,Cartoon Classics
+https://ucdn.beetv.kz/bpk-tv/000008795/tve/index.m3u8
+#EXTINF:-1 group-title="Детям" ,Nicktoons
+https://ucdn.beetv.kz/bpk-tv/000004365/tve/index.m3u8
+#EXTINF:-1 group-title="Детям" ,Nickelodeon
+https://ucdn.beetv.kz/bpk-tv/000000499/tve/index.m3u8
+#EXTINF:-1 group-title="Детям" ,Детский мир
+https://ucdn.beetv.kz/bpk-tv/000000049/tve/index.m3u8
+#EXTINF:-1 group-title="Детям" ,Уникум
+https://ucdn.beetv.kz/bpk-tv/000000048/tve/index.m3u8
+#EXTINF:-1 group-title="Детям" ,TiJi
+https://ucdn.beetv.kz/bpk-tv/000000174/tve/index.m3u8
+#EXTINF:-1 group-title="Детям" ,Лапки LIVE
+https://ucdn.beetv.kz/bpk-tv/000008551/tve/index.m3u8
+#EXTINF:-1 group-title="Детям" ,Мультиландия
+https://ucdn.beetv.kz/bpk-tv/000000203/tve/index.m3u8
+#EXTINF:-1 group-title="Детям" ,О!
+https://ucdn.beetv.kz/bpk-tv/000002928/tve/index.m3u8
+#EXTINF:-1 group-title="Детям" ,СТС Kids
+https://ucdn.beetv.kz/bpk-tv/000003892/tve/index.m3u8
+#EXTINF:-1 group-title="Детям" ,В гостях у сказки
+https://ucdn.beetv.kz/bpk-tv/000002762/tve/index.m3u8
+#EXTINF:-1 group-title="Детям" ,Nick Jr
+https://ucdn.beetv.kz/bpk-tv/000000449/tve/index.m3u8
+#EXTINF:-1 group-title="Детям" ,Карусель International
+https://ucdn.beetv.kz/bpk-tv/000000781/tve/index.m3u8
+#EXTINF:-1 group-title="Детям" ,Мама
+http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8
+#EXTINF:-1 group-title="Детям" ,Солнце
+http://tv.mediacdn.ru/live/solntse/playlist.m3u8
+#EXTINF:-1 group-title="Детям" ,Ani
+http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
+#EXTINF:-1 group-title="Детям" ,Cartoon Classics
+http://95.66.188.74/Cartoon_Classics/index.m3u8
+#EXTINF:-1 group-title="Детям" ,Fox Kids
+http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
+#EXTINF:-1 group-title="Детям" ,Детское кино International
+https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 group-title="Детям" ,Карусель
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+#EXTINF:-1 group-title="Детям" ,Карусель (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
+#EXTINF:-1 group-title="Детям" ,Карусель (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
+#EXTINF:-1 group-title="Детям" ,Карусель (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
+#EXTINF:-1 group-title="Детям" ,СОЛНЦЕ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
+#EXTINF:-1 group-title="Детям" ,СОЛНЦЕ (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
+#EXTINF:-1 group-title="Детям" ,СОЛНЦЕ (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
+#EXTINF:-1 group-title="Детям" ,СОЛНЦЕ (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
+#EXTINF:-1 group-title="Детям" ,Balapan
+https://ucdn.beetv.kz/bpk-tv/000005178/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,QAZAQSTAN HD
+https://ucdn.beetv.kz/bpk-tv/000004208/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,Хабар HD
+https://ucdn.beetv.kz/bpk-tv/000004211/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,Qazsport HD
+https://ucdn.beetv.kz/bpk-tv/000003038/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,24 KZ HD
+https://ucdn.beetv.kz/bpk-tv/000005177/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,Astana TV
+https://ucdn.beetv.kz/bpk-tv/000000666/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,31 Канал
+https://ucdn.beetv.kz/bpk-tv/000000663/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,Первый Канал Евразия
+https://ucdn.beetv.kz/bpk-tv/000000669/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,КТК HD
+https://ucdn.beetv.kz/bpk-tv/000000672/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,НТК
+https://ucdn.beetv.kz/bpk-tv/000000673/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,Седьмой канал
+https://ucdn.beetv.kz/bpk-tv/000000659/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,Jibek Joly
+https://ucdn.beetv.kz/bpk-tv/000000941/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,Atameken Business Channel HD
+https://ucdn.beetv.kz/bpk-tv/000005322/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,Almaty tv
+https://ucdn.beetv.kz/bpk-tv/000000667/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,ТДК-42
+https://ucdn.beetv.kz/bpk-tv/000001507/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,Той Думан
+https://ucdn.beetv.kz/bpk-tv/000002936/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,ABAI TV
+https://ucdn.beetv.kz/bpk-tv/000006116/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,Turan TV
+https://ucdn.beetv.kz/bpk-tv/000001404/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,SHOW KZ
+https://ucdn.beetv.kz/bpk-tv/000008944/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,77 TV
+https://ucdn.beetv.kz/bpk-tv/000002851/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,5 канал (региональный)
+https://ucdn.beetv.kz/bpk-tv/000000950/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,Алау ТВ
+https://ucdn.beetv.kz/bpk-tv/000001511/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,Отырар-TV
+https://ucdn.beetv.kz/bpk-tv/000001052/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,Айғак
+https://ucdn.beetv.kz/bpk-tv/000001510/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,Жетiсу
+https://ucdn.beetv.kz/bpk-tv/000001458/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,Salem, alem!
+https://ucdn.beetv.kz/bpk-tv/000008864/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,Коктем
+https://ucdn.beetv.kz/bpk-tv/000008934/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,Достык
+https://ucdn.beetv.kz/bpk-tv/000009344/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,ТВК 6
+https://ucdn.beetv.kz/bpk-tv/000001516/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,Ирбис TV
+https://ucdn.beetv.kz/bpk-tv/000001513/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,Новое Телевидение HD
+https://ucdn.beetv.kz/bpk-tv/000001380/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,Твоё Телевидение
+https://ucdn.beetv.kz/bpk-tv/000002721/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,РИКА-ТВ
+https://ucdn.beetv.kz/bpk-tv/000001514/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,HIT TV
+https://ucdn.beetv.kz/bpk-tv/000001213/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,MUZZONE
+https://ucdn.beetv.kz/bpk-tv/000000783/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,ULYTAU
+https://ucdn.beetv.kz/bpk-tv/000003604/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,Aкшам
+http://m3efzmyt.megatv.fun/iptv/9W24NNYEATZMWGT37TKB7VAD/14223/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,Ertis
+https://ucdn.beetv.kz/bpk-tv/000003248/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,Semei
+https://ucdn.beetv.kz/bpk-tv/000003250/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,Saryarqa
+https://ucdn.beetv.kz/bpk-tv/000003146/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,Qyzylorda
+https://ucdn.beetv.kz/bpk-tv/000003246/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,Qyzyljar
+https://ucdn.beetv.kz/bpk-tv/000003249/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,Qostanai
+https://ucdn.beetv.kz/bpk-tv/000001521/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,Ońtústik
+https://ucdn.beetv.kz/bpk-tv/000003251/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,Mańǵystaý
+https://ucdn.beetv.kz/bpk-tv/000003247/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,Kókshe
+https://ucdn.beetv.kz/bpk-tv/000003021/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,Jambyl
+https://ucdn.beetv.kz/bpk-tv/000003244/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,Atyraý
+https://ucdn.beetv.kz/bpk-tv/000001570/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,Altai
+https://ucdn.beetv.kz/bpk-tv/000001572/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,Aqjaiyq
+https://ucdn.beetv.kz/bpk-tv/000001689/tve/index.m3u8
+#EXTINF:-1 group-title="Казахстанские" ,Туркестан
+https://ucdn.beetv.kz/bpk-tv/000007248/tve/index.m3u8
+#EXTINF:-1 group-title="Радио",Дорожное Радио
+http://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3
+#EXTINF:-1 group-title="Радио",Наше радио
+http://nashe1.hostingradio.ru:80/nashe-256
+#EXTINF:-1 group-title="Радио",Радио DFM
+http://dfm.hostingradio.ru/dfm128.mp3
+#EXTINF:-1 group-title="Радио",Радио Маяк
+http://icecast.vgtrk.cdnvideo.ru/mayakfm
+#EXTINF:-1 group-title="Радио",Радио Мир
+http://icecast-mirtv.cdnvideo.ru:8000/radio_mir_256
+#EXTINF:-1 group-title="Радио",Радио на семи холмах
+http://emgregion.hostingradio.ru:8064/moscow.radio7.mp3
+#EXTINF:-1 group-title="Радио",Радио Шансон
+http://chanson.hostingradio.ru:8041/chanson256.mp3
+#EXTINF:-1 group-title="Радио",Радио Ваня
+http://icecast-radiovanya.cdnvideo.ru:8000/radiovanya
+#EXTINF:-1 group-title="Радио",Ретро FM
+http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
+#EXTINF:-1 group-title="Радио",Хит FM
+http://hitfm.hostingradio.ru/hitfm128.mp3
+#EXTINF:-1 group-title="Радио",Радио Родных Дорог
+https://livetv-app.mylifeisgood.net.ru/channels/radiorodniyxdorog.m3u8
+#EXTINF:-1 tvg-id="" group-title="Радио",Радио Maximum
+https://livetv-app.mylifeisgood.net.ru/channels/radiomaximus.m3u8
+#EXTINF:-1 group-title="Радио",Comedy Radio
+https://livetv-app.mylifeisgood.net.ru/channels/comedyradio.m3u8
+#EXTINF:-1 group-title="Радио",Ретро ФМ
+https://livetv-app.mylifeisgood.net.ru/channels/retrofm.m3u8
+#EXTINF:-1 group-title"Радио",Радио Звезда
+https://livetv-app.mylifeisgood.net.ru/channels/radiozvezda.m3u8
+#EXTINF:-1 group-title="Радио",Радио Romantica
+https://livetv-app.mylifeisgood.net.ru/channels/radioromantica.m3u8
+#EXTINF:-1 group-title="Радио",Радио для двоих
+https://livetv-app.mylifeisgood.net.ru/channels/radiodlyadvoix.m3u8
+#EXTINF:-1 group-title="Познавательные UHD TEST4K",Наша Сибирь 4K
+https://livetv-app.mylifeisgood.net.ru/channels/nashasibir4k.m3u8
