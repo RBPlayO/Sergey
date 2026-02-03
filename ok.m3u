@@ -685,7 +685,7 @@ http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
 http://hitfm.hostingradio.ru/hitfm128.mp3
 #EXTINF:-1 group-title="Радио",Радио Родных Дорог
 https://livetv-app.mylifeisgood.net.ru/channels/radiorodniyxdorog.m3u8
-#EXTINF:-1 tvg-id="" group-title="Радио",Радио Maximum
+#EXTINF:-1 group-title="Радио",Радио Maximum
 https://livetv-app.mylifeisgood.net.ru/channels/radiomaximus.m3u8
 #EXTINF:-1 group-title="Радио",Comedy Radio
 https://livetv-app.mylifeisgood.net.ru/channels/comedyradio.m3u8
