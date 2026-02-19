@@ -700,8 +700,7 @@ https://livetv-app.mylifeisgood.net.ru/channels/radiodlyadvoix.m3u8
 #EXTINF:-1 group-title="Познавательные UHD TEST4K",Наша Сибирь 4K
 https://livetv-app.mylifeisgood.net.ru/channels/nashasibir4k.m3u8
 
-#EXTINF:0 tvg-rec="0",VF Граиндхаус
-#EXTGRP:взрослые
+#EXTINF:-1 group-title="Взрослые 18+",VF Граиндхаус
 http://wu6o1ur9.megatv.fun/iptv/W6K8TQWNXGPFK9AEPZSM795L/14158/index.m3u8
 #EXTINF:0 tvg-rec="3",Playboy
 #EXTGRP:взрослые
